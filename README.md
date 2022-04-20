@@ -1,13 +1,21 @@
-### Sample Words to Wrap
+##Console App Solution to Wrap Texts
+
+*This solution takes two 2 arguments*
+
+**Input Text**
+**Maximum No. of characters per Line**
+
+### Sample Input Texts
 
 *Copy the following texts as test inputs*
 
-Green metal  stick<br />
-Establishment of the church<br />
+**Texts                                 Maximum No. of characters per Line**
+Green metal  stick                                          13<br />
+Establishment of the church                                  7<br />
 Lorem ipsum
-dolor sit amet<br />
-1234 
-1 
+dolor sit amet                                              9999<br />
+1234<br /> 
+1                                                              3<br />
 1234<br />
 
 *Text Inputs are written to Input.txt file*<br />
