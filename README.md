@@ -9,13 +9,13 @@
 
 *Copy the following texts as test inputs*
 
-**Texts                                 Maximum No. of characters per Line**
-Green metal  stick                                          13<br />
-Establishment of the church                                  7<br />
+**Texts                           -             -      Maximum No. of characters per Line**
+Green metal  stick              -                -            13<br />
+Establishment of the church     -                  -           7<br />
 Lorem ipsum
-dolor sit amet                                              9999<br />
+dolor sit amet                    -                  -        9999<br />
 1234<br /> 
-1                                                              3<br />
+1                                    -            -                          3<br />
 1234<br />
 
 *Text Inputs are written to Input.txt file*<br />
