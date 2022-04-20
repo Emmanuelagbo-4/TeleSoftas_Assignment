@@ -1,0 +1,15 @@
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/bin/Debug/net6.0/telesoftas_assignment
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/bin/Debug/net6.0/telesoftas_assignment.deps.json
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/bin/Debug/net6.0/telesoftas_assignment.runtimeconfig.json
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/bin/Debug/net6.0/telesoftas_assignment.dll
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/bin/Debug/net6.0/ref/telesoftas_assignment.dll
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/bin/Debug/net6.0/telesoftas_assignment.pdb
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/obj/Debug/net6.0/telesoftas_assignment.csproj.AssemblyReference.cache
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/obj/Debug/net6.0/telesoftas_assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/obj/Debug/net6.0/telesoftas_assignment.AssemblyInfoInputs.cache
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/obj/Debug/net6.0/telesoftas_assignment.AssemblyInfo.cs
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/obj/Debug/net6.0/telesoftas_assignment.csproj.CoreCompileInputs.cache
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/obj/Debug/net6.0/telesoftas_assignment.dll
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/obj/Debug/net6.0/ref/telesoftas_assignment.dll
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/obj/Debug/net6.0/telesoftas_assignment.pdb
+/Users/emmanuel/Documents/dotnet code/personal/telesoftas_assignment/obj/Debug/net6.0/telesoftas_assignment.genruntimeconfig.cache
