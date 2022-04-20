@@ -1,4 +1,4 @@
-##Console App Solution to Wrap Texts
+## Console App Solution to Wrap Texts
 
 *This solution takes two 2 arguments*
 
