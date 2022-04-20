@@ -9,7 +9,7 @@
 
 *Copy the following texts as test inputs*
 
-**Texts                           -             -      Maximum No. of characters per Line**
+**Texts                           -             -      Maximum No. of characters per Line** <br />
 Green metal  stick              -                -            13<br />
 Establishment of the church     -                  -           7<br />
 Lorem ipsum
