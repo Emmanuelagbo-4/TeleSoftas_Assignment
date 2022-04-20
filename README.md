@@ -2,7 +2,7 @@
 
 *This solution takes two 2 arguments*
 
-**Input Text**
+**Input Text**<br />
 **Maximum No. of characters per Line**
 
 ### Sample Input Texts
