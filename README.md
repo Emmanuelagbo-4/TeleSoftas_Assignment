@@ -1,7 +1,10 @@
-Green metal  stick
-Establishment of the church
+#### Sample Words to Wrap
+*Copy to the following texts as test inputs*
+
+Green metal  stick<br />
+Establishment of the church<br />
 Lorem ipsum
-dolor sit amet
+dolor sit amet<br />
 1234 
 1 
 1234
